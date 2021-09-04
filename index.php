@@ -78,6 +78,7 @@ $cards_f = $cards_pdf;
                 <a href="./component/events.php">EVENTS</a>
                 <a href="./component/about.html">ABOUT US</a>
                 <a href="./component/support.html">SUPPORT US</a>
+                <a href="./component/contact.html">CONTACT US</a>
             
                 </h1><br>  
             </nav>  </div>   
