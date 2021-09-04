@@ -396,6 +396,19 @@ color: rgb(15, 14, 14);
     text-align: center;
     font-weight: 800;
 }
+
+.section-temp-hours{
+    background-color:rgba(148, 147, 140, 0.404);
+    width:100%;
+    height: auto;
+    text-align:center
+}
+.section-temp-event{
+    background-color:rgba(159, 202, 252, 0.144);
+    width:100%;  
+    height: auto;
+    text-align:center
+}
     .fixed{
         color: rgb(122, 110, 98)
     
